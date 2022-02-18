@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">ncov.mohw.go.kr</domain>
+        <domain includeSubdomains="true">brunch.co.kr</domain>
+        <domain includeSubdomains="true">52.78.235.23</domain>
+        <domain includeSubdomains="true">post.naver.com</domain>
+        <domain includeSubdomains="true">www.hidoc.co.kr/</domain>
+            </domain-config>
+</network-security-config>

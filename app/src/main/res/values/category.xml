@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item >전체</item>
+        <item >헬스</item>
+        <item >필라테스</item>
+        <item >요가</item>
+    </string-array>
+</resources>
+
+

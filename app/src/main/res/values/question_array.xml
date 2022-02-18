@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question">
+        <item >좋아하는 음식은 무엇인가요?</item>
+        <item >자신의 별명은 무엇인가요?</item>
+        <item >가장 좋아했던 동화책의 제목은 무엇인가요?</item>
+    </string-array>
+</resources>
